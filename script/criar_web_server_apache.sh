@@ -16,6 +16,8 @@ wget https://github.com/PkMs7/spider-man-multiverse/archive/refs/heads/main.zip
 
 unzip main.zip
 
-cp -R spider-man-multiverse /var/www/html
+cd spider-man-multiverse-main
+
+cp -R * /var/www/html
 
 echo "Finalizando o script, servidor está pronto para utilização."
