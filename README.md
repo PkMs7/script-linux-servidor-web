@@ -4,7 +4,7 @@ Criação de um script para levantar um servidor web com Ubuntu e Apache
 
 ## Regras / Etapas
 
-- [ ] Restaurar o snapshot criado anteriormente no virtualbox;
+- [x] Restaurar o snapshot criado anteriormente no virtualbox;
 
 - [ ] Atualizar o servidor;
 
